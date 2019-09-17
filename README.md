@@ -2,10 +2,12 @@
 
 ¿Debo enviar lo que hice hoy a producción?
 
+Esto es más que nada una traducción a Español(de la costa norte de Colombia) de [Should I deploy today?](https://github.com/baires/shouldideploy)
+
 ## Contribuir
 
 * Ejecuta:
-    * `npm run build` — builds minified project for production
+    * `npm run build` — produce un minificado para producción que se puede abrir en el navegador
 
 ## Razones
 
