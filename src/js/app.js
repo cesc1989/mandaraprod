@@ -7,7 +7,6 @@ import {
 import '../css/styles.css'; 
   
 document.addEventListener('DOMContentLoaded', () => {
-  
   const TEXT = document.getElementById('text');
   const BTN = document.getElementById('reload');
   const BODY = document.getElementsByTagName('body')[0];
