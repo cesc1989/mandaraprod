@@ -1,24 +1,18 @@
-# shouldideploy.today
+# Mandar a Producción?
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fbaires%2Fshouldideploy.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fbaires%2Fshouldideploy?ref=badge_shield)
+¿Debo enviar lo que hice hoy a producción?
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/904ec38f-922f-4647-8efc-e6f82db8b067/deploy-status)](https://app.netlify.com/sites/auditor-beaver-22645/deploys)
+## Contribuir
 
-## Getting started
-
-* Run:
+* Ejecuta:
     * `npm run build` — builds minified project for production
 
-## Add your reasons
+## Razones
 
-Reasons are located under [reasons.js](https://github.com/baires/shouldideploy/tree/master/src/js/reasons.js)
+Lista de razones están en [reasons.js](https://github.com/cesc1989/mandaraprod/tree/master/src/js/reasons.js)
 
-## Deploy
-This can be deployed easily on Netlify.
+## Despliegue
 
+## Licensia
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/baires/shouldideploy/)
-
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fbaires%2Fshouldideploy.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fbaires%2Fshouldideploy?ref=badge_large)
+Ver archivo **LICENSE**

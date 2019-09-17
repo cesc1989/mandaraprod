@@ -1,13 +1,11 @@
 {
-  "name": "shouldideploy",
-  "description": "Should I Deploy today?",
-  "author": "Alexis Sagrbossa",
-  "version": "1.0.1",
-  "repository": "https://github.com/baires/shouldideploy/",
+  "name": "mandaraprod",
+  "description": "¿Debería mandar a producción?",
+  "author": "Francisco Quintero",
+  "version": "1.0.0",
+  "repository": "https://github.com/cesc1989/mandaraprod/",
   "scripts": {
-    "build": "webpack --mode production",
-    "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "build": "webpack --mode production"
   },
   "devDependencies": {
     "css-loader": "^3.2.0",
@@ -17,8 +15,6 @@
     "webpack-cli": "^3.3.7"
   },
   "dependencies": {
-    "babel-preset-env": "^1.7.0",
-    "snyk": "^1.219.0"
-  },
-  "snyk": true
+    "babel-preset-env": "^1.7.0"
+  }
 }
